@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sungkwangLim/react-tictactoe-deploy/static/css/main.ad984149.css",
+    "main.js": "/sungkwangLim/react-tictactoe-deploy/static/js/main.87e6b343.js",
+    "static/js/787.6b0bed1b.chunk.js": "/sungkwangLim/react-tictactoe-deploy/static/js/787.6b0bed1b.chunk.js",
+    "index.html": "/sungkwangLim/react-tictactoe-deploy/index.html",
+    "main.ad984149.css.map": "/sungkwangLim/react-tictactoe-deploy/static/css/main.ad984149.css.map",
+    "main.87e6b343.js.map": "/sungkwangLim/react-tictactoe-deploy/static/js/main.87e6b343.js.map",
+    "787.6b0bed1b.chunk.js.map": "/sungkwangLim/react-tictactoe-deploy/static/js/787.6b0bed1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad984149.css",
+    "static/js/main.87e6b343.js"
+  ]
+}
